@@ -1,16 +1,16 @@
-11.11 15:44 test(sucess)
+11.11 15:44 test(success)
 -------------
 
-11.12 15:14 test(sucess)
+11.12 15:14 test(success)
 -------------
 
-11.13  19:30 test(sucess)
+11.13  19:30 test(success)
 -------------
 
 11.14 20:20 test(a few bugs(fixed)){5* bugs}
 ------------
 
-11.15 14:00 test(sucess)
+11.15 14:00 test(success)
 ------------
 
 11.16 13:30 test(success)
