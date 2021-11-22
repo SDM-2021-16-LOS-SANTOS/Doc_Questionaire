@@ -1,14 +1,32 @@
-11.18 first test if it work normally(success)
---------
-11.19 second test( a few bugs(fixed))
-----
-11.19 data information test( a few bugs
-----
-11.20 Component test（success）
--------
-11.20 all bugs fix test(success) 
-------
-11.21 final running test (success)
-------
-11.21 final test(success)
--------
+11.11 15:44 test(sucess)
+-------------
+
+11.12 15:14 test(sucess)
+-------------
+
+11.13  19:30 test(sucess)
+-------------
+
+11.14 20:20 test(a few bugs(fixed)){5* bugs}
+------------
+
+11.15 14:00 test(sucess)
+------------
+
+11.16 13:30 test(success)
+------------
+
+11.17 20:15 test( a few bugs(fixed)){8* bugs}
+--------------
+
+11.18 21.19  Component test（success）
+------------
+
+11.19 20:00 test(success) 
+------------
+
+11.20 22:00 final running test (success)
+------------
+
+11.21 final 22:00  test(success)
+------------
