@@ -1,25 +1,21 @@
-A web page is needed to collect users’ feedback on the questionnaire, for example: their views on a certain real-life issue.
-
-Dream system
-We need to create a web page that will display multiple questions. The user needs to enter the answer to the question, and finally click Submit. Then the database accepts the data and saves the data.
-
-Current processes
 Current situation
 A web page is needed to collect users’ feedback on the questionnaire, for example: their views on a certain real-life issue.
 
-Dream system
-We need to create a web page that will display multiple questions. The user needs to enter the answer to the question, and finally click Submit. Then the database accepts the data and saves the data.
-
-Current processes
-Planning the database structure
-Create the database
-Required processes
-Planning the database structure
-Create the database
-Text the database
-Create a html page
-Use css to typeset the page
-Text the web page
 Link the web page to the server
 Test whether the connection is successful
+Link the database to the server
+Test whether the connection is successful
+Update the database to the server
+Text the whole system
+User test
+Law, rules, standards
+Use navicat and mysql to create the database
+Use html to create the web page
+Use springboot to create frame
+Use maven to create environment.
+Requirement list
+Need a simple and clear web UI and some questions
+Need a database to store the answers filled in by users
+Need to be able to browse the webpage online
+Dictionary
 
